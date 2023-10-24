@@ -1,3 +1,4 @@
+![logo](https://github.com/Inkita333/Inkita333/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">👋 Hello, I'm Inkita Agrawal</h1>
 
 # 💫 About Me:
